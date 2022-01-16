@@ -2,7 +2,7 @@
 
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
-> 提醒： 请 Fork 本专案后，将 README.md 中的  jkukhhj/GFGHGJJ   替换为自己的用户名和自定义名字后，再进行部署。 
+> 提醒： 请 Fork 本专案后，将 README.md 中的  jkukhhj/GHGJHKJK  替换为自己的用户名和自定义名字后，再进行部署。 
 
 ## 概述
 
